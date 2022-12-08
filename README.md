@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7A6B
-- 👀 I’m interested in studying opensource code.
+- 👀 I’m interested in fitness and code.
 - 🌱 I’m currently reading java books. I am firmly convinced in theory and go further
 - 💞️ I’m looking to collaborate on java project
 - 📫 How to reach me ... any question?issue me
